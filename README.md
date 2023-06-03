@@ -2,6 +2,8 @@
 
 A Mainsail theme for the Ethereal Project 3D YouTube channel.
 
+![Theme screenshot](screenshot.jpg)
+
 
 ## Installation
 
