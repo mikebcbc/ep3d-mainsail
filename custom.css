@@ -1,0 +1,70 @@
+/* .
+Ethereal Project 3D Mainsail Theme by @mikebcbc
+*/
+
+:root {
+    --c_blue:         #1491FF;
+    --c_darkblue:     #173753;
+}
+
+.v-toolbar__content {
+    color: #ffffff;
+    background: var(--c_blue);
+}
+
+.topbar > .v-toolbar__content {
+    background: -webkit-linear-gradient(90deg, var(--c_blue),var(--c_darkblue)) !important;
+    background: linear-gradient(90deg, var(--c_blue),var(--c_darkblue)) !important;
+}
+
+.v-icon__svg {
+    color: #ffffff;
+}
+
+.v-list-item__content {
+    color: #ffffff;
+}
+
+.v-application .panel {
+    background-color: var(--c_darkblue) !important;
+}
+
+.theme--dark.v-card {
+    background-color: var(--c_darkblue);
+}
+
+.theme--dark.v-list {
+    background: var(--c_darkblue);
+}
+
+.theme--dark.v-data-table {
+    background: var(--c_darkblue);
+}
+
+.v-data-table>.v-data-table__wrapper>table {
+    background-color: var(--c_darkblue);
+}
+
+.v-tab.v-tab {
+    background: var(--c_darkblue);
+}
+
+.theme--dark.v-btn.v-btn--has-bg {
+    background-color: var(--c_blue) !important;
+}
+
+.v-application .grey.darken-3 {
+    background-color: var(--c_darkblue)!important;
+}
+
+.theme--dark.v-data-table .v-data-footer {
+    background: var(--c_darkblue);
+}
+
+.v-card__subtitle, .v-card__text {
+    background: var(--c_darkblue);
+}
+
+.theme--dark.v-text-field fieldset, .theme--dark.v-text-field .theme--dark.v-input__control, .theme--dark.v-text-field .theme--dark.v-input__slot  {
+    background: var(--c_darkblue)!important;
+}
